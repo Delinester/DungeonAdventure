@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 592dd6d42f6c1c54e804a9a4efc8be7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterAnimator: {instanceID: 0}
+  - healthBarSliderPrefab: {instanceID: 0}
+  - coinsPrefab: {fileID: 6919154744104193171, guid: e1a3c26981e2f034290f69b8d16e2c7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
